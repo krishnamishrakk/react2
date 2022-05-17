@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  background-image: linear-gradient(lightblue,lightpink,lightyellow);
+  
+  
+  height: 100vh;
+}
